@@ -1,0 +1,34 @@
+body{
+  
+  background-color: #EEE0C9;
+ 
+   
+}
+.App{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  
+}
+.calc-wrapper{
+  background-color: #98E4FF;
+  width: 400px;
+  border-radius: 30px;
+}
+.row{
+  display: flex;
+}
+
+.calculator-title {
+  font-size: 1.5em;
+  color: blue;
+  text-align: center; /* Yazıyı ortala */
+  /* Diğer stil özellikleri */
+}
+.calc-header{
+  background-color: rgb(255, 255, 255);
+}
+.header{
+  background-color:#80B3FF;
+  border-radius: 20px;
+}
